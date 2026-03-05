@@ -3,7 +3,6 @@
 
 int function(int x){
 	x=x-2;
-	x=function(x);
 	return x;
 }
 
